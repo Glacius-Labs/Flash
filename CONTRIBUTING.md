@@ -3,7 +3,7 @@
 Welcome to Flash, part of [StormFleet](https://github.com/orgs/Glacius-Labs/projects/1) by [Glacius Labs](https://github.com/Glacius-Labs). We’re excited to have you contribute!
 
 ## How to Contribute
-1. **Have an Idea**: Start by discussing it in the [Discussions tab](#discussions).
+1. **Have an Idea**: Start by discussing it in the [Discussions tab](https://github.com/Glacius-Labs/Flash/discussions).
 2. **Open an Issue**: Create an issue in this repo to propose your change.
 3. **Link to Project**: Assign it to the "StormFleet" project.
 4. **Fork and Branch**:  
@@ -20,6 +20,6 @@ Welcome to Flash, part of [StormFleet](https://github.com/orgs/Glacius-Labs/proj
 - Test your changes locally if possible.
 
 ## Questions?
-Post in the [Discussions tab](#discussions) or comment on your issue.
+Post in the [Discussions tab](https://github.com/Glacius-Labs/Flash/discussions) or comment on your issue.
 
 Thanks for contributing!
