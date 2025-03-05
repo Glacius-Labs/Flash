@@ -1,6 +1,6 @@
 # Contributing to Flash
 
-Welcome to Flash, part of [StormFleet](https://github.com/GlaciusLabs/projects/1) by [Glacius Labs](https://github.com/GlaciusLabs). We’re excited to have you contribute!
+Welcome to Flash, part of [StormFleet](https://github.com/org/GlaciusLabs/projects/1) by [Glacius Labs](https://github.com/org/GlaciusLabs). We’re excited to have you contribute!
 
 ## How to Contribute
 1. **Have an Idea**: Start by discussing it in the [Discussions tab](#discussions).
