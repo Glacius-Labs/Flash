@@ -7,7 +7,7 @@ Welcome to Flash, part of [StormFleet](https://github.com/orgs/Glacius-Labs/proj
 2. **Open an Issue**: Create an issue in this repo to propose your change.
 3. **Link to Project**: Assign it to the "StormFleet" project.
 4. **Fork and Branch**:  
-   - Fork this repo if you’re outside GlaciusLabs.  
+   - Fork this repo if you’re outside Glacius Labs.  
    - Create a branch (e.g., `feature/your-idea`) in your fork or our repo (if a collaborator).
 5. **Submit a PR**:  
    - Push your changes to the feature branch.  
